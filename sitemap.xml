@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://satriyop.github.io/categories/</loc>
+    <loc>http://satriyop.github.io/</loc>
+    <lastmod>2020-04-08T17:40:38+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://satriyop.github.io/</loc>
+    <loc>http://satriyop.github.io/post/first-post/</loc>
+    <lastmod>2020-04-08T17:40:38+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/post/</loc>
+    <lastmod>2020-04-08T17:40:38+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/categories/</loc>
   </url>
   
   <url>
