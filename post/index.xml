@@ -28,7 +28,7 @@ Beruntungnya salah satu youtuber dan content creator khusus programming, Mike Da
       <pubDate>Wed, 08 Apr 2020 17:40:38 +0700</pubDate>
       
       <guid>http://satriyop.github.io/post/first-post/</guid>
-      <description>Hugo Website ini dibuat dengan Hugo, sebuah static site generator yang menarik.
+      <description>Website ini dibuat dengan Hugo, sebuah static site generator yang menarik.
 Hugo dibuat dengan bahasa pemrograman Go. Hal ini selaras dari klaim Hugo sendiri sebagai SSG tercepat dan bahasa pemrograman Go sendiri yang banyak dipercaya sebagai salah satu bahasa pemrograman yang efisien.
 Pada postingan berikutnya akan coba kita bahas lebih lanjut tentang Hugo atau bahkan Go sendiri di halaman ini. Stay Tuned !</description>
     </item>
