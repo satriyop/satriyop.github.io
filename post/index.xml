@@ -6,10 +6,21 @@
     <description>Recent content in Posts on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2020 17:40:38 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 22:01:55 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo Tutorial</title>
+      <link>http://satriyop.github.io/post/hugo-tutorial/</link>
+      <pubDate>Mon, 20 Apr 2020 22:01:55 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/hugo-tutorial/</guid>
+      <description>Dokumentasi yang disediakan oleh Hugo di sini sudah cukup untuk memulai membangun sebuah website dengan Hugo. Tapi ada beberapa detail yang masih terasa lengkap yang hanya akan terjawab dengan melihat langsung ke source code dari hugo sendiri.
+Beruntungnya salah satu youtuber dan content creator khusus programming, Mike Dane, menyediakan konten video gratis yang menjelaskan seluk beluk dari Hugo secara gamblang. Kamu bisa cek video nya di bawah ini :
+  </description>
+    </item>
     
     <item>
       <title>Github Page dengan Hugo</title>
