@@ -6,10 +6,37 @@
     <description>Recent content in Tags on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 22:01:55 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 02:41:15 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>docker</title>
+      <link>http://satriyop.github.io/tags/docker/</link>
+      <pubDate>Thu, 23 Apr 2020 02:41:15 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>http://satriyop.github.io/tags/php/</link>
+      <pubDate>Thu, 23 Apr 2020 02:41:15 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sandbox</title>
+      <link>http://satriyop.github.io/tags/sandbox/</link>
+      <pubDate>Thu, 23 Apr 2020 02:41:15 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/sandbox/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hugo</title>

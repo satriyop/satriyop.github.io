@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on code with satriyop</title>
+    <link>http://satriyop.github.io/categories/docker/</link>
+    <description>Recent content in docker on code with satriyop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 02:41:15 +0700</lastBuildDate>
+    
+	<atom:link href="http://satriyop.github.io/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker for Code Sandbox : Proof of Concept</title>
+      <link>http://satriyop.github.io/post/docker-for-code-sandbox/</link>
+      <pubDate>Thu, 23 Apr 2020 02:41:15 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/docker-for-code-sandbox/</guid>
+      <description>Hari ini mencoba bikin sandbox env, dimana dalam sandbox ini kita bisa meng-compile/eksekusi code yang diberikan ke stdin dari sandbox tersebut.
+Dalam percobaan ini, digunakan docker container sebagai sandbox environment. Percobaan pertama adalah membuat sandbox untuk mengeksekusi kode php.
+Persiapan yang perlu dilakukan.
+ Download docker di sini. Pastikan docker server sudah running di local machine. Bisa dites dengan mengetikkan command docker di terminal. Pull image php (bisa pilih versi alpine supaya sizenya tidak terlalu besar, versi terbaru 7.</description>
+    </item>
+    
+  </channel>
+</rss>
