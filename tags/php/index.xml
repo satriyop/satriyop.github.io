@@ -6,10 +6,21 @@
     <description>Recent content in php on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2020 02:41:15 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 02:52:31 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Go Docker Sandbox</title>
+      <link>http://satriyop.github.io/post/go-docker-sandbox/</link>
+      <pubDate>Fri, 24 Apr 2020 02:52:31 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/go-docker-sandbox/</guid>
+      <description>Melanjutkan Proof of Concept dari artikel sebelumnya. Kali ini kita coba memanggil process dari pemanggilan container docker dengan menggunakan Go.
+Fungsi yang akan menjalankan container secara otomatis akan seperti ini :
+func startDocker() { fmt.Println(&amp;quot;going to run code in docker, please wait...&amp;quot;) cmd := exec.Command(&amp;quot;bash&amp;quot;, &amp;quot;-c&amp;quot;, &amp;quot;docker run -w /app --rm --volumes-from phpcontainer php:7.4-alpine php test.php&amp;quot;) var out bytes.Buffer cmd.Stdout = &amp;amp;out err := cmd.Run() check(err) fmt.Println(out.String()) }  Di sini kita menggunakan exec, supaya bisa memanggil proses eksternal (Docker dalam hal ini) dan menyambungkan stdout dari container ke dalam Go dan mendisplaynya di terminal.</description>
+    </item>
     
     <item>
       <title>Docker for Code Sandbox : Proof of Concept</title>

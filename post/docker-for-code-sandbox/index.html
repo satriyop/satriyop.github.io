@@ -151,15 +151,22 @@ Persiapan yang perlu dilakukan.
 </ol>
 <p>Okay, setelah semua beres, kita bisa melakukan tes sederhana, sekedar menjadi <em>proof of concept</em> bahwa kita bisa melakukan eksekusi code di docker.</p>
 <ol>
-<li>Membuat container dari image yang sudah dipull di tahap persiapan di atas. Supaya memudahkan interaksi antara host machine dengan container, kita akan menyiapkan volume di container yang akan mount ke file system host machine.</li>
+<li>
+<p>Membuat container dari image yang sudah dipull di tahap persiapan di atas. Supaya memudahkan interaksi antara host machine dengan container, kita akan menyiapkan volume di container yang akan mount ke file system host machine.</p>
+<blockquote>
+<p>docker create -v /home/codesnippet:/app &ndash;name phpcontainer php:7.4-alpine</p>
+</blockquote>
+</li>
+<li>
+<p>Kita coba running containernya, dimana kita akan mengeksekusi file test.php (yang ada di host machine yang telah di mount). Perhatikan bahwa kita menambahkan beberapa flag  seperti flag -w yang untuk mengeset <em>working directory</em> dari container dan flag &ndash;rm supaya container akan segera dihapus setelah selesai.</p>
+<blockquote>
+<p>docker run -w /app &ndash;rm &ndash;volumes-from phpcontainer php:7.4-alpine php test.php</p>
+</blockquote>
+</li>
 </ol>
-<p><code>docker create -v /home/codesnippet:/app --name phpcontainer php:7.4-alpine</code></p>
-<ol start="2">
-<li>Kita coba running containernya, dimana kita akan mengeksekusi file test.php (yang ada di host machine yang telah di mount). Perhatikan bahwa kita menambahkan beberapa flag  seperti flag -w yang untuk mengeset <em>working directory</em> dari container dan flag &ndash;rm supaya container akan segera dihapus setelah selesai.</li>
-</ol>
-<p><code>docker run -w /app --rm --volumes-from phpcontainer php:7.4-alpine php test.php</code></p>
 <p>untuk test yang lebih sederhana kita bisa juga melakukan ini :</p>
-<p><code>echo &quot;&lt;?php echo 'asdf';&quot; | docker run -i --rm php:7.4-alpine php</code></p>
+<pre><code>echo &quot;&lt;?php echo 'asdf';&quot; | docker run -i --rm php:7.4-alpine php
+</code></pre>
 <ul class="pa0">
   
    <li class="list">
