@@ -6,10 +6,20 @@
     <description>Recent content on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 01:10:38 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 03:10:35 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code Editor Web : Code Mirror</title>
+      <link>http://satriyop.github.io/post/code-editor-web/</link>
+      <pubDate>Mon, 27 Apr 2020 03:10:35 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/code-editor-web/</guid>
+      <description>Editor (text/code editor) adalah tool utama dari seorang programmer. Berbagai macam code editor baik yang berbayar (seperti produk dari Jetbrain, Sublime, dll) maupun gratis (yang biasanya adalah hasil karya komunitas open source seperti Atom, VS Code, dan editor text yang menolak mati seperti emacs atau vim).
+Biasanya, editor ini adalah aplikasi desktop yang harus diinstall di level OS, tapi dengan perkembangan teknologi web, kita bisa menggunakan &amp;ldquo;engine&amp;rdquo; dari editor ini untuk kita sematkan di website kita.</description>
+    </item>
     
     <item>
       <title>Cookie Di Go</title>
