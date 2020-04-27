@@ -6,10 +6,19 @@
     <description>Recent content in Categories on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 03:10:35 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:54:33 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>go</title>
+      <link>http://satriyop.github.io/categories/go/</link>
+      <pubDate>Tue, 28 Apr 2020 00:54:33 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/categories/go/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>editor</title>
@@ -17,15 +26,6 @@
       <pubDate>Mon, 27 Apr 2020 03:10:35 +0700</pubDate>
       
       <guid>http://satriyop.github.io/categories/editor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>http://satriyop.github.io/categories/go/</link>
-      <pubDate>Sun, 26 Apr 2020 01:10:38 +0700</pubDate>
-      
-      <guid>http://satriyop.github.io/categories/go/</guid>
       <description></description>
     </item>
     

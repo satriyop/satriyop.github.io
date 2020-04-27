@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fileserver on code with satriyop</title>
+    <link>http://satriyop.github.io/tags/fileserver/</link>
+    <description>Recent content in fileserver on code with satriyop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 00:54:33 +0700</lastBuildDate>
+    
+	<atom:link href="http://satriyop.github.io/tags/fileserver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fileserver Go</title>
+      <link>http://satriyop.github.io/post/fileserver-go/</link>
+      <pubDate>Tue, 28 Apr 2020 00:54:33 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/fileserver-go/</guid>
+      <description>Membuat fileserver dengan Go, adalah urusan sepotong kue. Pustaka standar dari Go, yaitu net/http menyediakan fasilitas ini sebagai salah satu Handler yang bisa kita gunakan untuk melayani request http dan melayani konten dari file system OS yang dipakai.
+Berikut di bawah adalah contoh sangat sederhana dari membuat file server di Go
+func main() { fmt.Println(&amp;quot;File server on Go&amp;quot;) // directory yang akan dipakai fileserver dir := http.Dir(&amp;quot;/&amp;quot;) // buat handler untuk serving konten di file system fileServer := http.</description>
+    </item>
+    
+  </channel>
+</rss>

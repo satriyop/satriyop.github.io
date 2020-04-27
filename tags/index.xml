@@ -6,10 +6,37 @@
     <description>Recent content in Tags on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 03:10:35 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:54:33 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>fileserver</title>
+      <link>http://satriyop.github.io/tags/fileserver/</link>
+      <pubDate>Tue, 28 Apr 2020 00:54:33 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/fileserver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>http://satriyop.github.io/tags/go/</link>
+      <pubDate>Tue, 28 Apr 2020 00:54:33 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>http</title>
+      <link>http://satriyop.github.io/tags/http/</link>
+      <pubDate>Tue, 28 Apr 2020 00:54:33 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/http/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>codemirror</title>
@@ -44,24 +71,6 @@
       <pubDate>Sun, 26 Apr 2020 01:10:38 +0700</pubDate>
       
       <guid>http://satriyop.github.io/tags/cookie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>http://satriyop.github.io/tags/go/</link>
-      <pubDate>Sun, 26 Apr 2020 01:10:38 +0700</pubDate>
-      
-      <guid>http://satriyop.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>http</title>
-      <link>http://satriyop.github.io/tags/http/</link>
-      <pubDate>Sun, 26 Apr 2020 01:10:38 +0700</pubDate>
-      
-      <guid>http://satriyop.github.io/tags/http/</guid>
       <description></description>
     </item>
     
