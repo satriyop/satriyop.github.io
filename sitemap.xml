@@ -4,12 +4,57 @@
   
   <url>
     <loc>http://satriyop.github.io/categories/</loc>
-    <lastmod>2020-04-28T00:54:33+07:00</lastmod>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
   </url>
   
   <url>
     <loc>http://satriyop.github.io/</loc>
-    <lastmod>2020-04-28T00:54:33+07:00</lastmod>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/cookie/</loc>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/go/</loc>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/categories/go/</loc>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/gorilla/</loc>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/hash/</loc>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/hmac/</loc>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/post/</loc>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/post/secure-cookie/</loc>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/</loc>
+    <lastmod>2020-04-29T02:37:53+07:00</lastmod>
   </url>
   
   <url>
@@ -23,27 +68,7 @@
   </url>
   
   <url>
-    <loc>http://satriyop.github.io/tags/go/</loc>
-    <lastmod>2020-04-28T00:54:33+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://satriyop.github.io/categories/go/</loc>
-    <lastmod>2020-04-28T00:54:33+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://satriyop.github.io/tags/http/</loc>
-    <lastmod>2020-04-28T00:54:33+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://satriyop.github.io/post/</loc>
-    <lastmod>2020-04-28T00:54:33+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://satriyop.github.io/tags/</loc>
     <lastmod>2020-04-28T00:54:33+07:00</lastmod>
   </url>
   
@@ -70,11 +95,6 @@
   <url>
     <loc>http://satriyop.github.io/tags/monaco/</loc>
     <lastmod>2020-04-27T03:10:35+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://satriyop.github.io/tags/cookie/</loc>
-    <lastmod>2020-04-26T01:10:38+07:00</lastmod>
   </url>
   
   <url>
