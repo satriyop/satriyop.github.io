@@ -6,10 +6,22 @@
     <description>Recent content in go on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2020 02:37:53 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 02:10:49 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Init Func di Go</title>
+      <link>http://satriyop.github.io/post/init-func-go/</link>
+      <pubDate>Thu, 30 Apr 2020 02:10:49 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/init-func-go/</guid>
+      <description>Salah satu nama fungsi yang spesial di Go adalah init. Seperti namanya, kita bisa menebak bahwa fungsi dari func init ini adalah untuk melakukan sebuah inisiasi dari value-value tertentu yang dibutuhkan oleh package main.
+Sebelum membahas tentang detil func init, alur dari eksekusi sebuah package main.
+ Inisiasi dari package main Pemanggilan func main  Pada tahap pertama, yaitu iniasi package main hal-hal berikut secara berurutan akan dilakukan :
+ Apabila ada package lain yang di-import, maka package tersebut akan diinisiasi terlebih dahulu.</description>
+    </item>
     
     <item>
       <title>Secure Cookie di Go</title>

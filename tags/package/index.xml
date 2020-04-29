@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>package on code with satriyop</title>
+    <link>http://satriyop.github.io/tags/package/</link>
+    <description>Recent content in package on code with satriyop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 02:10:49 +0700</lastBuildDate>
+    
+	<atom:link href="http://satriyop.github.io/tags/package/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Init Func di Go</title>
+      <link>http://satriyop.github.io/post/init-func-go/</link>
+      <pubDate>Thu, 30 Apr 2020 02:10:49 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/init-func-go/</guid>
+      <description>Salah satu nama fungsi yang spesial di Go adalah init. Seperti namanya, kita bisa menebak bahwa fungsi dari func init ini adalah untuk melakukan sebuah inisiasi dari value-value tertentu yang dibutuhkan oleh package main.
+Sebelum membahas tentang detil func init, alur dari eksekusi sebuah package main.
+ Inisiasi dari package main Pemanggilan func main  Pada tahap pertama, yaitu iniasi package main hal-hal berikut secara berurutan akan dilakukan :
+ Apabila ada package lain yang di-import, maka package tersebut akan diinisiasi terlebih dahulu.</description>
+    </item>
+    
+  </channel>
+</rss>
