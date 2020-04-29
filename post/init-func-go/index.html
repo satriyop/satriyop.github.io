@@ -154,8 +154,8 @@ Sebelum membahas tentang detil func init, alur dari eksekusi sebuah package main
 <li>Variabel-variabel dari package-level pertama diinisiasikan dalam urutan deklarasi.</li>
 <li>Pemanggilan func init</li>
 </ul>
-<p>atau secara singkat seperti ini :
-<code>import --&gt; const --&gt; var --&gt; init()</code></p>
+<p>atau secara singkat seperti ini :</p>
+<p><code>import --&gt; const --&gt; var --&gt; init()</code></p>
 <p>Pada tahap kedua, ketika func main <em>return</em>, yang perlu diperhatikan adalah dia tidak menunggu (bila ada) Go Routine untuk selesai. Ingat, func main akan segera mengakhiri aplikasi/program apabila dia mencapai return.</p>
 <p>Kembali ke func init. Fungsi ini bisa dideklarasikan dengan cara seperti ini :</p>
 <pre><code>func init() { … }
