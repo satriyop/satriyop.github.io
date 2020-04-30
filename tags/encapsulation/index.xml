@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>encapsulation on code with satriyop</title>
+    <link>http://satriyop.github.io/tags/encapsulation/</link>
+    <description>Recent content in encapsulation on code with satriyop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 16:09:30 +0700</lastBuildDate>
+    
+	<atom:link href="http://satriyop.github.io/tags/encapsulation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OOP : Encapsulation di Go</title>
+      <link>http://satriyop.github.io/post/oop-encapsulation-go/</link>
+      <pubDate>Thu, 30 Apr 2020 16:09:30 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/oop-encapsulation-go/</guid>
+      <description>Salah satu filosofi dalam pemrograman berorientasi object adalah bahwa consumer (dalam Go, bisa diartikan package lain yang ingin berinteraksi dengan package kita) tidak boleh terlalu banyak tahu tentang detil object yang akan di-consume/dipanggil.
+Hal ini bisa diselesaikan dengan 2 hal secara umum yaitu Encapsulation dan Message Passing, kita bahas dahulu tentang encapsulation.
+Dalam hal encapsulation berarti consumer dapat meminta/memanggil sebuah service (biasanya dalam bentuk method) pada object yang di-consume-nya, tanpa perlu tahu detail bagaimana service tersebut diimplementasikan (logika dan struktur datanya).</description>
+    </item>
+    
+  </channel>
+</rss>
