@@ -6,10 +6,21 @@
     <description>Recent content in Posts on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 16:09:30 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 16:55:13 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OOP : Message Passing di Go</title>
+      <link>http://satriyop.github.io/post/oop-message-passing-go/</link>
+      <pubDate>Sat, 02 May 2020 16:55:13 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/oop-message-passing-go/</guid>
+      <description>Definisi dari secara singkat dari Message Passing adalah mengirimkan message ke object, dan menyerahkan kendalinya ke object tersebut. Dalam pemgrograman berorientasi Object hal ini bisa diartikan juga, bahwa consumer hanya bisa melakukan request terhadap sebuah service, tapi bagaimana service tersebut diimplementasikan akan diserahkan kepada object itu sendiri.
+Pendektatan yang bisa digunakan dalam melakukan message passing adalah dengan menggunakan :
+ Interface Channel  Interface type PaymentOption interface { ProcessPayment(float32) bool } type CashAccount struct {} func (c *CashAccount) ProcessPayment(amount float32) bool {.</description>
+    </item>
     
     <item>
       <title>OOP : Encapsulation di Go</title>

@@ -4,12 +4,47 @@
   
   <url>
     <loc>http://satriyop.github.io/categories/</loc>
-    <lastmod>2020-04-30T16:09:30+07:00</lastmod>
+    <lastmod>2020-05-02T16:55:13+07:00</lastmod>
   </url>
   
   <url>
     <loc>http://satriyop.github.io/</loc>
-    <lastmod>2020-04-30T16:09:30+07:00</lastmod>
+    <lastmod>2020-05-02T16:55:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/go/</loc>
+    <lastmod>2020-05-02T16:55:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/categories/go/</loc>
+    <lastmod>2020-05-02T16:55:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/message-passing/</loc>
+    <lastmod>2020-05-02T16:55:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/oop/</loc>
+    <lastmod>2020-05-02T16:55:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/post/oop-message-passing-go/</loc>
+    <lastmod>2020-05-02T16:55:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/post/</loc>
+    <lastmod>2020-05-02T16:55:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://satriyop.github.io/tags/</loc>
+    <lastmod>2020-05-02T16:55:13+07:00</lastmod>
   </url>
   
   <url>
@@ -18,32 +53,7 @@
   </url>
   
   <url>
-    <loc>http://satriyop.github.io/tags/go/</loc>
-    <lastmod>2020-04-30T16:09:30+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://satriyop.github.io/categories/go/</loc>
-    <lastmod>2020-04-30T16:09:30+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://satriyop.github.io/tags/oop/</loc>
-    <lastmod>2020-04-30T16:09:30+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://satriyop.github.io/post/oop-encapsulation-go/</loc>
-    <lastmod>2020-04-30T16:09:30+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://satriyop.github.io/post/</loc>
-    <lastmod>2020-04-30T16:09:30+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://satriyop.github.io/tags/</loc>
     <lastmod>2020-04-30T16:09:30+07:00</lastmod>
   </url>
   
