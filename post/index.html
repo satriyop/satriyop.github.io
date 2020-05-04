@@ -34,7 +34,7 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://satriyop.github.io/post/" />
-<meta property="og:updated_time" content="2020-05-02T16:55:13+07:00" />
+<meta property="og:updated_time" content="2020-05-04T13:16:17+07:00" />
 <meta itemprop="name" content="Posts">
 <meta itemprop="description" content=""><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Posts"/>
@@ -94,6 +94,28 @@
       
     </section>
     <aside class="flex-ns flex-wrap justify-around mt5">
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          
+            <div class="mb3 pa4 mid-gray overflow-hidden">
+    
+      <div class="f6">
+        May 4, 2020
+      </div>
+    
+    <h1 class="f3 near-black">
+      <a href="http://satriyop.github.io/post/oop-inheritance-composition-go/" class="link black dim">
+        OOP : Inheritance Composition di Go
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Bagaimana caranya untuk reuse dari behavior sebuah object yang sudah ada ? secara umum ada dua hal yang bisa dilakukan :
+ Inheritance Composition  Meskipun begitu di Go, memilih composition over inheritance, meski begitu mari kita singgung sedikit tentang inheritance supaya kita mendapatkan gambaran utuhnya.
+Inheritance adalah strategi reuse dimana sebuah type adalah berdasarkan type yang lainnya (base type), sehingga meng-inherit atau mewarisi fungsionalitas dari base type tersebut. Seringkali digambarkan sebagai hubungan parent-child.
+    </div>
+  </div>
+
+        </div>
       
         <div class="relative w-100 w-30-l mb4 bg-white">
           
@@ -286,29 +308,6 @@ Sebagai sebuah penyederhanaan, pada dasarnya komunikasi HTTP akan melibatkan dua
       Melanjutkan Proof of Concept dari artikel sebelumnya. Kali ini kita coba memanggil process dari pemanggilan container docker dengan menggunakan Go.
 Fungsi yang akan menjalankan container secara otomatis akan seperti ini :
 func startDocker() { fmt.Println(&quot;going to run code in docker, please wait...&quot;) cmd := exec.Command(&quot;bash&quot;, &quot;-c&quot;, &quot;docker run -w /app --rm --volumes-from phpcontainer php:7.4-alpine php test.php&quot;) var out bytes.Buffer cmd.Stdout = &amp;out err := cmd.Run() check(err) fmt.Println(out.String()) }  Di sini kita menggunakan exec, supaya bisa memanggil proses eksternal (Docker dalam hal ini) dan menyambungkan stdout dari container ke dalam Go dan mendisplaynya di terminal.
-    </div>
-  </div>
-
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        April 23, 2020
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="http://satriyop.github.io/post/docker-for-code-sandbox/" class="link black dim">
-        Docker for Code Sandbox : Proof of Concept
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Hari ini mencoba bikin sandbox env, dimana dalam sandbox ini kita bisa meng-compile/eksekusi code yang diberikan ke stdin dari sandbox tersebut.
-Dalam percobaan ini, digunakan docker container sebagai sandbox environment. Percobaan pertama adalah membuat sandbox untuk mengeksekusi kode php.
-Persiapan yang perlu dilakukan.
- Download docker di sini. Pastikan docker server sudah running di local machine. Bisa dites dengan mengetikkan command docker di terminal. Pull image php (bisa pilih versi alpine supaya sizenya tidak terlalu besar, versi terbaru 7.
     </div>
   </div>
 

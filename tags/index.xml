@@ -6,17 +6,44 @@
     <description>Recent content in Tags on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2020 16:55:13 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 13:16:17 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>composition</title>
+      <link>http://satriyop.github.io/tags/composition/</link>
+      <pubDate>Mon, 04 May 2020 13:16:17 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>go</title>
       <link>http://satriyop.github.io/tags/go/</link>
-      <pubDate>Sat, 02 May 2020 16:55:13 +0700</pubDate>
+      <pubDate>Mon, 04 May 2020 13:16:17 +0700</pubDate>
       
       <guid>http://satriyop.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inheritance</title>
+      <link>http://satriyop.github.io/tags/inheritance/</link>
+      <pubDate>Mon, 04 May 2020 13:16:17 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/inheritance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oop</title>
+      <link>http://satriyop.github.io/tags/oop/</link>
+      <pubDate>Mon, 04 May 2020 13:16:17 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/oop/</guid>
       <description></description>
     </item>
     
@@ -26,15 +53,6 @@
       <pubDate>Sat, 02 May 2020 16:55:13 +0700</pubDate>
       
       <guid>http://satriyop.github.io/tags/message-passing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>oop</title>
-      <link>http://satriyop.github.io/tags/oop/</link>
-      <pubDate>Sat, 02 May 2020 16:55:13 +0700</pubDate>
-      
-      <guid>http://satriyop.github.io/tags/oop/</guid>
       <description></description>
     </item>
     
