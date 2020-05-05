@@ -6,10 +6,19 @@
     <description>Recent content in go on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2020 13:16:17 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 16:35:29 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/categories/go/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OOP : Polimorphism di Go</title>
+      <link>http://satriyop.github.io/post/oop-polimorphism-go/</link>
+      <pubDate>Tue, 05 May 2020 16:35:29 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/post/oop-polimorphism-go/</guid>
+      <description>Bila kita mempunyai package dengan beberapa fungsionalitas/service yang sudah didefinisikan sedangkan kita mempunyai satu type atau beberapa type yang akan menyediakan fungsionalitas tersebut ke consumer (kode yang akan berkomunikasi dengan Package/Type kita tersebut) maka desain yang baik adalah consumer tidak tahu, type mana yang menyediakan fungsionalitas/service yang diconsume-nya. Consumer hanya tahu bahwa mereka berinteraksi secara polimorfik dengan sebuah type, dan fungsionalitas/service yang akan disediakan oleh type tersebut, tapi implementasi detilnya tidak akan kelihatan.</description>
+    </item>
     
     <item>
       <title>OOP : Inheritance Composition di Go</title>
