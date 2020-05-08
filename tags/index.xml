@@ -6,7 +6,7 @@
     <description>Recent content in Tags on code with satriyop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 16:35:29 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 03:46:55 +0700</lastBuildDate>
     
 	<atom:link href="http://satriyop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>go</title>
       <link>http://satriyop.github.io/tags/go/</link>
-      <pubDate>Tue, 05 May 2020 16:35:29 +0700</pubDate>
+      <pubDate>Sat, 09 May 2020 03:46:55 +0700</pubDate>
       
       <guid>http://satriyop.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://satriyop.github.io/tags/hugo/</link>
+      <pubDate>Sat, 09 May 2020 03:46:55 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yaml</title>
+      <link>http://satriyop.github.io/tags/yaml/</link>
+      <pubDate>Sat, 09 May 2020 03:46:55 +0700</pubDate>
+      
+      <guid>http://satriyop.github.io/tags/yaml/</guid>
       <description></description>
     </item>
     
@@ -206,15 +224,6 @@
       <pubDate>Thu, 23 Apr 2020 02:41:15 +0700</pubDate>
       
       <guid>http://satriyop.github.io/tags/sandbox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>http://satriyop.github.io/tags/hugo/</link>
-      <pubDate>Mon, 20 Apr 2020 22:01:55 +0700</pubDate>
-      
-      <guid>http://satriyop.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
